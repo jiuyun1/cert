@@ -1,7 +1,7 @@
 # Fake Certificate
 
 ### English
-- The certificate used for sacrificial project
+- The certificate is used for temporary project
 
 ### Indonesia
 - Sertifikat yang digunakan sebagai tumbal project
