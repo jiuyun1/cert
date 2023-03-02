@@ -7,4 +7,4 @@
 - Sertifikat yang digunakan sebagai tumbal project
 
 # Information
-Generate Using OpenSSL
+This fake certificate generated using OpenSSL
