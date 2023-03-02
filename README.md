@@ -1,9 +1,9 @@
 # Fake Certificate
 
-## English
+### English
 - The certificate used for sacrificial project
 
-## Indonesia
+### Indonesia
 - Sertifikat yang digunakan sebagai tumbal project
 
 # Information
